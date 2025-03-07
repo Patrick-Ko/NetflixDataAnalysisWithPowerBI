@@ -64,11 +64,11 @@ From the analysis, I derived the following insights:
 2. **Power Query**: To clean and transform the dataset.
 
 ## Files Included
-+ Power BI Report File (Netflix_Report.pbix): The report file created in Power BI.
++ [Power BI Report File](Netflix_Report.pbix): The report file created in Power BI.
 
-+ Dataset File (netflix_titles.csv): The original dataset used for this project.
++ [Dataset File](netflix_titles.csv): The original dataset used for this project.
 
-+ This Markdown File (README.md): Detailed documentation of the project.
++ [This Markdown File](README.md): Detailed documentation of the project.
 
 ## How to Use
 1. Download the files from this repository.
